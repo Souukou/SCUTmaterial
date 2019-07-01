@@ -31,7 +31,7 @@
 
 #### 软件工程类
 1. 软件需求分析✅(Last Updated: 2017-05-06)
-2. 软件测试✅(Last Updated: 2019-6-1)
+2. 软件测试✅(Last Updated: 2019-6-28)
 3. 软件体系架构 ✅(Last Updated: 2018-12-27)
 4. 软件项目管理和质量工程（Last Update: 2019-1-2）
 
@@ -40,6 +40,7 @@
 2. 毛概✅(Last Updated: 2017-02-26)
 3. 马哲✅(Last Updated: 2017-02-26)
 4. 近代史✅(Last Updated: 2017-02-26)
+5. 形势与政策（Last Updated: 2019-6-28）
 
 #### 其他必修类
 1. 工程制图✅(Last Updated: 2017-05-06)
@@ -52,3 +53,6 @@
 2. 机器学习（Last Updated: 2018-12-28）
 3. 人工智能（Last Updated: 2019-1-2）
 4. 智能人机交互技术（Last Updated: 2019-1-2）
+
+#### 方向无关选修课
+1. 并行程序设计（Last Updated: 2019-6-28）
